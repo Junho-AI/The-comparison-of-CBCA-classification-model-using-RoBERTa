@@ -1,8 +1,6 @@
-# The comparison of CBCA classification model using RoBERTa
-
-## RoBERTa를 활용한 CBCA 준거 분류 모델 성능 비교 
+# The comparison of CBCA classification model using RoBERTa (RoBERTa를 활용한 CBCA 준거 분류 모델 성능 비교 )
 ## (KSC2021 언어공학 우수논문 선정)
-[![Link](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2242)
+[Link](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2242)
 
  
 ## Abstract
